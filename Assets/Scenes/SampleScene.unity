@@ -224,6 +224,9 @@ MonoBehaviour:
   - {fileID: 4119639184909748313, guid: fcc31b220753f0942802880bdd2ae1e3, type: 3}
   - {fileID: 1046890181331180562, guid: 0da44ba58632ab84197c68ed4bd448da, type: 3}
   - {fileID: 3298502738358374754, guid: 2cb9f2524e4b7b347b291c57ba165836, type: 3}
+  sessionOrigin: {fileID: 573643487}
+  raycastManager: {fileID: 573643486}
+  planeManager: {fileID: 573643485}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
